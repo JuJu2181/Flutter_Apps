@@ -29,3 +29,4 @@ samples, guidance on mobile development, and a full API reference.
 - Add login registration with Firebase
 - Add sidebar to display/update profile
 - Add some other apps
+- 
