@@ -25,8 +25,5 @@ samples, guidance on mobile development, and a full API reference.
 # Added Features 
 - Switching between Light and Dark Mode
 
-# TODO
-- Add login registration with Firebase
-- Add sidebar to display/update profile
-- Add some other apps
+
 - 
